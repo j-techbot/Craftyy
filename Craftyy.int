@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 498.1158
 WINDOW: src\datums\entity\vars.dm;src\datums\entity\procs.dm
+LAST_COMPILE_VERSION: 498.1158
 DIR: src src\datums src\datums\entity 
 FILE: src\datums\entity\procs.dm
-LAST_COMPILE_TIME: 1359217735
+LAST_COMPILE_TIME: 1359218170
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
